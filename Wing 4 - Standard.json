@@ -1,0 +1,59 @@
+{
+  "name": "Wing 4",
+  "description": "> *The bloodstone explosion unearthed a portal to a place where few have been—and none have escaped. Deconstruct the mysteries and learn the true story of one of history's most misunderstood figures.*\n\nThis is the fourth raid wing and probably the most beginner-friendly one in the game right now! We will have four encounters:\n<:cairn:703930782003101758> **Cairn** - An easy but chaotic boss that favours condi DPS.\n<:mursaat:703930783680954459> **Mursaat Overseer** - An easy boss that lets you show off your DPS rotation.\n<:samarog:703930783257329714> **Samarog** - An easy CC-heavy boss that favours power DPS.\n<:deimos:703930783257067551> **Deimos** - A difficult, punishing boss where any kind of DPS works.\n\nBoth power and condi DPS work for these encounters!\n\n<:quick_healer:1176639812900495400> <:alac_healer:1176639815282856017> **Healer Roles:**\n- One healer will need to **Tank** on <:mursaat:703930783680954459> **Mursaat Overseer** (Claim) and <:deimos:703930783257067551> **Deimos**. Tanking for the latter boss is toughness-based, so you're expected to take some toughness via gear such as `Minstrel's` or `Giver's` to take aggro.\n\n<:dps:1176639819191951390> **DPS Roles:**\n- One DPS player will need to take the **Handkiter** role. They will play DPS for the first three bosses and swap to a specialised build to do the `Hand Kiting` mechanic on <:deimos:703930783257067551> **Deimos**. This is a role that requires a lot of survivability and I recommend bringing some toughness trinkets.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 2,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "requiredParticipants": 0,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 2,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 0,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> DPS Alacrity",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    },
+    {
+      "name": "Tank",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Handkiter",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    }
+  ],
+  "duration": 3,
+  "templateName": "Wing 4",
+  "templateVersion": "Standard",
+  "templateOverview": "This template for a Wing 4 run has a **Tank** assigned to a healer for <:mursaat:703930783680954459> **Mursaat Overseer** (Claim) and <:deimos:703930783257067551> **Deimos**. One of the <:dps:1176639819191951390> **DPS** has to take the **Handkiter** role for <:deimos:703930783257067551> **Deimos**.",
+  "templateColour": "#5e698c",
+  "templateImageUrl": "https://wiki.guildwars2.com/images/2/2d/Bastion_of_the_Penitent_loading_screen.jpg"
+}

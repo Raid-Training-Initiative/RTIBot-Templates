@@ -1,0 +1,89 @@
+{
+  "name": "Wing 6 CMs",
+  "description": "*Zommoros has invited you to participate in the very first private tour of the Mystic Forge. Witness the incredible inner workings of the djinn's magical domain, and uncover the dark secret that lurks at its center.*\n\nThis is a **Challenge Mode** run of the Mythwright Gambit, i.e. Wing 6. There are three encounters:\n<:conjuredamalgamate:703930783496405082> **Conjured Amalgamate CM** - An easy bursty boss which heavily favours power DPS. The CM introduces the **reflectable / body-blockable lasers**.\n<:largos:703930782275731498> **Twin Largos CM** - A difficult set of two bosses which favours condi DPS. The CM introduces the **arena-wide oneshot**.\n<:qadim:703930782649024573> **Qadim CM** - A difficult, punishing boss which requires power DPS. The CM introduces **more oneshot orbs** and **instant death when falling**.\n\nPlease note that power DPS is **required** in this run for <:qadim:703930782649024573> **Qadim CM** (and much stronger on <:conjuredamalgamate:703930783496405082> **Conjured Amalgamate CM**).\n\n<:quick_healer:1176639812900495400> <:alac_healer:1176639815282856017> **Healer Roles:**\n- One healer will be expected to take the **Tank** role. They will be the main tank for <:largos:703930782275731498> **Twin Largos CM** and <:qadim:703930782649024573> **Qadim CM**. Tanking is proximity-based for <:qadim:703930782649024573> **Qadim CM** and toughness-based for <:largos:703930782275731498> **Twin Largos CM**, so you're expected to take some toughness via gear such as `Minstrel's` or `Giver's` to take aggro.\n- The other healer will be taking the **Off-Tank** role. This means they will tank one of the Largos and the `Matriarch` or `Partiarch` wyvern on <:qadim:703930782649024573> **Qadim CM**.\n\n<:dps:1176639819191951390> **DPS Roles:**\n- A DPS will take the **Pull** role. Only <:mesmer:675414199211393036> **Mesmer** DPS builds are qualified to do this. They will be pulling the `Magma Elementals` with focus on <:qadim:703930782649024573> **Qadim CM**.\n- Two DPS players will take the **Portal** role. They will be using `Portals` on <:qadim:703930782649024573> **Qadim CM**. Only <:mesmer:675414199211393036> **Mesmer** and <:thief:675414199475634211> **Thief** DPS builds are qualified to do this.\n- A DPS will take **Kiter** role. They will do the `Kiting` mechanic on <:qadim:703930782649024573> **Qadim CM**.\n- Another DPS will take the **Lamp** role. They will be expected to do the first two `Lamp` mechanics alone on <:qadim:703930782649024573> **Qadim CM**. The lamp is a bit harder on CM so we may send a second person in with you if you take this role.\n\n<:contacts:1181934601040576512> **Roles Anyone Can Choose:**\n- Two people will need to take the **Aegis** role to give <:aegis:766683009309999104> **Aegis** to each subgroup on <:qadim:703930782649024573> **Qadim CM** to protect the squad from the `oneshot orbs` mechanic.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 2,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "requiredParticipants": 0,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 2,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 0,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> DPS Alacrity",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    },
+    {
+      "name": "Tank",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Off-Tank",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Kiter",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Lamp",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Pull",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Portal",
+      "requiredParticipants": 2,
+      "type": "DPS Special Role",
+      "listIndex": 1
+    },
+    {
+      "name": "Aegis",
+      "requiredParticipants": 2,
+      "type": "Any Special Role",
+      "listIndex": 0
+    }
+  ],
+  "duration": 3,
+  "templateName": "Wing 6",
+  "templateVersion": "CMs",
+  "templateOverview": "This template for a Wing 6 CMs run assigns two **Aegis** spots that anyone can pick up for the `oneshot orbs` on <:qadim:703930782649024573> Qadim, alongside the standard Wing 6 special roles.",
+  "templateColour": "#deb212",
+  "templateImageUrl": "https://wiki.guildwars2.com/images/5/52/Mythwright_Gambit_loading_screen.jpg"
+}

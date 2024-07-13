@@ -1,0 +1,47 @@
+{
+  "name": "AH CM",
+  "description": "> *The dragon cycle that has sustained and blighted Tyria for ages is collapsing. Mortal hearts and choices will define this moment in history—and echo in the future forever.*\n\nWe will be tackling the first EoD Strike CM, <:maitrin:954126378511527986> **Aetherblade Hideout CM**, which is a medium difficulty boss where extra CC and projectile reflect/destruction are valuable.\n\nAny type of DPS works for this encounter.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 2,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "requiredParticipants": 0,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 2,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 0,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> DPS Alacrity",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    }
+  ],
+  "duration": 3,
+  "templateName": "EoD Strikes",
+  "templateVersion": "AH CM",
+  "templateOverview": "A template for <:maitrin:954126378511527986> **Aetherblade Hideout CM** with a standard dynamic comp.",
+  "templateColour": "#20a872",
+  "templateImageUrl": "https://wiki.guildwars2.com/images/thumb/d/d3/Strike_Mission-_Aetherblade_Hideout_loading_screen.png/1920px-Strike_Mission-_Aetherblade_Hideout_loading_screen.png"
+}

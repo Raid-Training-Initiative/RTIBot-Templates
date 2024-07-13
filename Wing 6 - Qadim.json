@@ -1,0 +1,83 @@
+{
+  "name": "Qadim",
+  "description": "> *Zommoros has invited you to participate in the very first private tour of the Mystic Forge. Witness the incredible inner workings of the djinn's magical domain, and uncover the dark secret that lurks at its center.*\n\nThis is a run specifically for the difficult last boss of the Mythwright Gambit (Wing 6), <:qadim:703930782649024573> **Qadim**. Please note that power DPS is **required** in this run due to the pyre strategy we'll be doing.\n\n<:quick_healer:1176639812900495400> <:alac_healer:1176639815282856017> **Healer Roles:**\n- One healer will be expected to take the **Tank** role. They will be the main tank the hydra, destroyer, and one of the wyverns. Tanking is proximity-based, but we still recommend some toughness via gear such as `Minstrel's` or `Giver's`.\n- The other healer will be taking the **Off-Tank** role. This means they will tank the `Matriarch` or `Partiarch` wyvern.\n\n<:dps:1176639819191951390> **DPS Roles:**\n- A DPS will take the **Pull** role. Only <:mesmer:675414199211393036> **Mesmer** DPS builds are qualified to do this. They will be pulling the `Magma Elementals` with focus.\n- Two DPS players will take the **Portal** role. They will be using `Portals` throughout the fight. Only <:mesmer:675414199211393036> **Mesmer** and <:thief:675414199475634211> **Thief** DPS builds are qualified to do this.\n- Another DPS will take **Kiter** role. They will do the `Kiting` mechanic.\n- Another DPS will take the **Lamp** role. They will be expected to do the first two `Lamp` mechanics alone.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 2,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "requiredParticipants": 0,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 2,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 0,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> DPS Alacrity",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    },
+    {
+      "name": "Tank",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Off-Tank",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Kiter",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Lamp",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Pull",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Portal",
+      "requiredParticipants": 2,
+      "type": "DPS Special Role",
+      "listIndex": 1
+    }
+  ],
+  "duration": 3,
+  "templateName": "Wing 6",
+  "templateVersion": "Qadim",
+  "templateOverview": "This template for a <:qadim:703930782649024573> **Qadim** run includes two **Portal**s for double-pyre strat, mutually-exclusive **Kiter** / **Lamp** / **Pull** roles for <:dps:1176639819191951390> **DPS** players to pick up, and **Tank** / **Off-Tank** healer special roles.",
+  "templateColour": "#deb212",
+  "templateImageUrl": "https://assets.snowcrows.com/uploads/28207ec4-a151-11ec-8fcf-ca7a943c517e/9K1hWwpxWSKNu77csUTkcxS9AXSClm9lpArDyi28.webp"
+}

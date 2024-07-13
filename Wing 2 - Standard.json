@@ -1,0 +1,65 @@
+{
+  "name": "Wing 2 Training",
+  "description": "> *The search for a missing Pact leader continues as you and your allies venture deeper into the Forsaken Thicket. Strange magical energy has run amok, and long-hidden mysteries wait to be brought to light.*\n\nThis is the second raid wing of the Forsaken Thicket. We will have to face three encounters:\n<:slothasor:703930783206998087> **Slothasor** - A fairly hard boss that requires pulls and good CC and favours power DPS.\n<:trio:703930901796618260> **Trio** - An easy encounter that has no particular requirements.\n<:matthias:703930783311593563> **Matthias** - A medium difficulty fight that favours condi DPS.\n\nBoth power and condi DPS work for these encounters.\n\n<:quick_generic:1176639827890937986> <:alac_generic:1176639824292220958> **Boon Roles:**\n- Two quickness/alacrity providers must handle **Sloth Fear**, which involves bringing <:stability:844163847161774121> **Stability** (or instant group condi cleanses / stunbreaks) to negate the <:fear:715162058802593872> **Fear** done by <:slothasor:703930783206998087> **Slothasor**.\n\n<:contacts:1163765170829525024> **Roles Anyone Can Choose:**\n- Two people will need to take the **Reflect** and **Backup Reflect** roles for <:matthias:703930783311593563> **Matthias**. Good reflect sources are <:firebrand:763700488825733142> **Firebrand**'s `Chapter 3: Valiant Bulwark` (tome F3), <:guardian:675414198850813964> **Guardian**'s `Wall of Reflection`, and <:mesmer:675414199211393036> **Mesmer's** `Feedback`.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 2,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "requiredParticipants": 0,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 2,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 0,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> DPS Alacrity",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    },
+    {
+      "name": "Sloth Fear",
+      "requiredParticipants": 2,
+      "type": "Boon Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Reflect",
+      "requiredParticipants": 1,
+      "type": "Any Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Backup Reflect",
+      "requiredParticipants": 1,
+      "type": "Any Special Role",
+      "listIndex": 0
+    }
+  ],
+  "duration": 3,
+  "templateName": "Wing 2",
+  "templateVersion": "Standard",
+  "templateOverview": "This is a standard template for a Wing 2 practice run which has two **Stability** roles assigned to <:quick_generic:1176639827890937986> **Quickness** players for <:slothasor:703930783206998087> **Slothasor**'s <:fear:715162058802593872> **Fear**. It also explicitly assigns a **Reflect** and **Backup Reflect** to two participants of the raid for <:matthias:703930783311593563> **Matthias**.",
+  "templateColour": "#32db79",
+  "templateImageUrl": "https://wiki.guildwars2.com/images/thumb/2/23/Salvation_Pass_loading_screen.png/1920px-Salvation_Pass_loading_screen.png"
+}

@@ -1,0 +1,115 @@
+{
+  "name": "ToF CM",
+  "description": "> *Febe was... Oh, he was the best of us. The tip of his left horn brushed the ceiling.*\n\n⚠️ **Warning**: This is a Training Run for a very difficult encounter. We will use it as an introduction to the content, but there won't be a kill.\n\nWe will be tackling by far the most difficult encounter in the game, <:templeoffebe:1154873430181683230> **Temple of Febe CM**. This is a long and difficult encounter with the highest DPS check from all encounters that demands excellent gameplay from everyone in the squad. CC, stacking, coordination, damage mitigation, solid DPS, and solid healing are all demanded by this encounter.\n\nWe will be doing the **Double Wall / Heal Portals** strategy. This means we will be killing the `Regret` and `Gluttony` aspects during the split phases and relying on portals from our <:alac_healer:1176639815282856017> **Heal Alacrity** players for mobility and positioning.\n\nClasses mentioned in this event are *not* recommendations; they are required. Please come on the listed builds and ensure you're comfortable with playing them.\n\n<:alac_healer:1176639815282856017> **Heal Alacrity Builds:**\n- <:chronomancer:763700489467592734> [**Chronomancer**](https://tinyurl.com/y3hafpkj) (one required)\n- <:scourge:763701209122471958> [**Scourge**](https://tinyurl.com/4fsysasy) (one required)\n\n<:quick_dps:1176639849156051014> **DPS Quickness Builds:**\n- <:herald:818773507286499328> [**Condi Herald**](https://tinyurl.com/5f4u3np7) (at least one required)\n- <:chronomancer:763700489467592734> [**Power Chrono**](https://tinyurl.com/bz6k7hpk)\n\n<:dps:1176639819191951390> **DPS Builds**:\n- <:virtuoso:948585484165210162> [**Condi Virtuoso (Standard)**](https://tinyurl.com/2faeayxv) (recommended if you aren't running infusions)\n- <:virtuoso:948585484165210162> [**Condi Virtuoso (w/ Precision Infusions)**](https://tinyurl.com/yc2jm35d)\n  - ⚠️ **Note**: _All_ DPS players are required to come on <:virtuoso:948585484165210162> **Condi Virtuoso**! There is currently no other class that can compete with it.\n\n<:quick_healer:1176639812900495400> <:alac_healer:1176639815282856017> **Healer Roles:**\n- One healer will need to come on <:scourge:763701209122471958> **Scourge**. They will use `Corrosive Poison Cloud` to mitigate the small orbs during the `Gluttony` eating phases. The barrier and downed ressing via `Transfusion` are also extremely helpful.\n- The other healer will need to come on <:chronomancer:763700489467592734> **Chronomancer**.\n- Both healers will need to take **Portals** to aid with movement and handling of the fight's mechanics such as `Rage` circles, `Despair` dropping, and `Malice` cleaving. The <:scourge:763701209122471958> **Scourge** will use `Sand Swell` and the <:chronomancer:763700489467592734> **Chronomancer** will use their `Blink` and `Portal`.\n\n<:quick_dps:1176639849156051014> <:alac_dps:1176639831720337438> **Quickness Roles:**\n- At *least* one of the <:quick_dps:1176639849156051014> **DPS Quickness** will need to come on <:herald:818773507286499328> **Herald** to aid with boon uptime.\n\n<:quick_generic:1176639827890937986> <:alac_generic:1176639824292220958> **Boon Roles:**\n- One quickness/alacrity provider must take the **Strike Opener** role, designating them to bait the wall during the split phases to be anti-clockwise to the group.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 0,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 0,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 2,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "requiredParticipants": 2,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> DPS Alacrity",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:virtuoso:948585484165210162> Condi Virtuoso DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    },
+    {
+      "name": "<:chronomancer:763700489467592734> Chrono",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "<:scourge:763701209122471958> Scourge",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Portals",
+      "requiredParticipants": 2,
+      "type": "Healer Special Role",
+      "listIndex": 1
+    },
+    {
+      "name": "<:herald:818773507286499328> Herald",
+      "requiredParticipants": 1,
+      "type": "Quickness Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Strike Opener",
+      "requiredParticipants": 1,
+      "type": "Boon Special Role",
+      "listIndex": 0
+    }
+  ],
+  "duration": 3,
+  "options": {
+    "allowGuests": false,
+    "allowFlex": true,
+    "healAlacDpsQuick": 2,
+    "healQuickDpsAlac": 0,
+    "minForceRole": 0
+  },
+  "specialRoleAssignments": [
+    {
+      "coreRole": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "specialRoles": [],
+      "assignedSpecialRole": "<:chronomancer:763700489467592734> Chrono"
+    },
+    {
+      "coreRole": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "specialRoles": [
+        "<:chronomancer:763700489467592734> Chrono"
+      ],
+      "assignedSpecialRole": "Portals"
+    },
+    {
+      "coreRole": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "specialRoles": [],
+      "assignedSpecialRole": "<:scourge:763701209122471958> Scourge"
+    },
+    {
+      "coreRole": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "specialRoles": [
+        "<:scourge:763701209122471958> Scourge"
+      ],
+      "assignedSpecialRole": "Portals"
+    },
+    {
+      "coreRole": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "specialRoles": [],
+      "assignedSpecialRole": "<:herald:818773507286499328> Herald"
+    }
+  ],
+  "templateName": "SotO Strikes",
+  "templateVersion": "ToF CM",
+  "templateOverview": "This template for a <:templeoffebe:1154873430181683230> **Temple of Febe CM** training run stresses the difficulty of the encounter. It has build requirements for all the roles and runs the standard **Double Wall / Heal Portal** strat with two healers on <:scourge:763701209122471958> **Scourge** and <:chronomancer:763700489467592734> **Chrono** to do **Portals**. At least one <:herald:818773507286499328> **Herald** (condi) is also required to take <:quick_dps:1176639849156051014> **DPS Quickness**.",
+  "templateColour": "#73111e",
+  "templateImageUrl": "https://wiki.guildwars2.com/images/thumb/4/4f/Hell_Breaks_Loose.png/1920px-Hell_Breaks_Loose.png"
+}

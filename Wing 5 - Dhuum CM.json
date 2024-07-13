@@ -1,0 +1,77 @@
+{
+  "name": "Dhuum CM",
+  "description": "> *An influx of murderous undead relentlessly hunt innocent worshipers of Grenth. Infiltrate the Underworld and join the struggle for control over the fates of the living and the dead.*\n\nThis is a **Challenge Mode** run of the last boss of Hall of Chains (Wing 5), <:dhuum:703930782590304346> **Dhuum CM**, which is the hardest raid encounter in the game currently. This encounter introduces the `Ender's Echo`, which is an enemy that runs around the arena picking up whoever stands near them, killing them if they don't get CC'd in time. Reapers also cannot feasibly be healed in CM.\n\nBoth power and condi DPS work for this encounter. Come on the class you feel most confident on.\n\n<:quick_healer:1176639812900495400> <:alac_healer:1176639815282856017> **Healer Roles:**\n- One healer will need to take **Tank + G3**. Tanking on <:dhuum:703930782590304346> **Dhuum CM** is toughness-based, so you're expected to take some toughness via gear such as `Minstrel's` or `Giver's` to take aggro. They will also be expected to do `Green 3`.\n- The other healer will be on **Kiter + G2**. They will be expected to do `Green 2` and `Kiting`.\n\n<:dps:1176639819191951390> **DPS Roles:**\n- The DPS that takes **G1** is expected to do `Green 1`.\n- The DPS that takes **Boonstrip** is expected to take a class that can strip boons from the boss.\n- The DPS that takes **Wurm** is expected to take a <:necromancer:675414199052140555> **Necromancer** build with the `Flesh Wurm` utility. This helps introduce a failsafe to protect star reaper.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 2,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "requiredParticipants": 0,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 2,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 0,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> DPS Alacrity",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    },
+    {
+      "name": "Tank + G3",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Kiter + G2",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "G1",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Boonstrip",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 1
+    },
+    {
+      "name": "Wurm",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 2
+    }
+  ],
+  "duration": 3,
+  "templateName": "Wing 5",
+  "templateVersion": "Dhuum CM",
+  "templateOverview": "This template for a <:dhuum:703930782590304346> **Dhuum CM** run includes a **Wurm** DPS special role to ensure that someone comes on a <:necromancer:675414199052140555> **Necromancer** spec with the `Flesh Wurm` utility, alongside the standard special roles.",
+  "templateColour": "#97b55c",
+  "templateImageUrl": "https://wiki.guildwars2.com/images/6/6b/Dhuum_Full.jpg"
+}

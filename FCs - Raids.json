@@ -1,0 +1,161 @@
+{
+  "name": "Raids Full Clear",
+  "description": "Get yourself a spot for your weekly FULL clear on all raids. I expect all DPS players to come prepared with both a power and condi DPS build.\n\n<:quick_healer:1176639812900495400> <:alac_healer:1176639815282856017> **Healer Roles:**\n- **Tank + G3**\n  - Tank on <:valeguardian:703930901997944833><:gorseval:703930783198347284><:keepconstruct:703930783223644200><:xera:703930902069117008><:mursaat:703930783680954459><:deimos:703930783257067551><:soullesshorror:703930782841962557><:dhuum:703930782590304346><:largos:703930782275731498><:qadim:703930782649024573><:adina:703930780610461806><:qadimthepeerless:703930782749818940>.\n  - Take `Green 3` <:dhuum:703930782590304346>.\n- **Off-Tank + Push + Kite @ Dhuum + Anomalies + G2**\n  - Perform `Seeker Control` <:valeguardian:703930901997944833>.\n  - Push the `Construct Core` <:keepconstruct:703930783223644200>.\n  - Push/CC `Rigom` <:samarog:703930783257329714>.\n  - Push the `Tormented Dead` <:soullesshorror:703930782841962557>.\n  - Kite <:dhuum:703930782590304346>.\n  - Take `Green 2` <:dhuum:703930782590304346>.\n  - Tank one of Largos <:largos:703930782275731498>.\n  - Tank a wyvern <:qadim:703930782649024573>.\n  - Handle `Anomalies` <:qadimthepeerless:703930782749818940>.\n- **Kite @ Sab**\n  - Kite the `Flak` <:sabetha:703930783320113192>\n\n<:quick_dps:1176639849156051014> <:alac_dps:1176639831720337438> **Boon DPS Roles:**\n- **Tank @ SH**\n  - Tank <:soullesshorror:703930782841962557>.\n\n<:quick_generic:1176639827890937986> <:alac_generic:1176639824292220958> **Boon Roles:**\n- **Stability**\n  - Negate the <:fear:715162058802593872> **Fear** <:slothasor:703930783206998087>.\n  - Provide <:stability:844163847161774121> **Stability** for shockwave <:qadimthepeerless:703930782749818940>.\n- **Immob**\n  - Immobilise `Ghosts` <:gorseval:703930783198347284>.\n  - Immobilise `Prides` <:deimos:703930783257067551>.\n  - Aid with `Seeker Control` <:valeguardian:703930901997944833> and `Rigom` <:samarog:703930783257329714>.\n\n<:dps:1176639819191951390> **DPS Roles:**\n- **Cannons**\n  - Take cannon 1 (1-3) or cannon 2 (2-4) <:sabetha:703930783320113192>.\n- **Handkiter**\n  - Perform `Hand-Kiting` <:deimos:703930783257067551>.\n- **Epidemic**\n  - Help kill `Tormented Dead` on a <:necromancer:675414199052140555> **Necro** build <:soullesshorror:703930782841962557>.\n- **G1**\n  - Take `Green 1` <:dhuum:703930782590304346>.\n- **Boonstrip**\n  - Bring a class that can negate boons <:dhuum:703930782590304346>.\n- **Lamp**\n  - Take the `Lamp` solo <:qadim:703930782649024573>.\n- **Kiter**\n  - Kite <:qadim:703930782649024573>.\n- **Pull**\n  - Bring a <:mesmer:675414199211393036> **Mesmer** build with `Focus` <:qadim:703930782649024573>.\n- **Portal**\n  - Bring a <:mesmer:675414199211393036> **Mesmer** or <:thief:675414199475634211> **Thief** build with `Portal` <:qadim:703930782649024573>.\n- **Pylon**\n  - Kite the `Pylons` <:qadimthepeerless:703930782749818940>.\n\n<:quick_dps:1176639849156051014> <:alac_dps:1176639831720337438> <:dps:1176639819191951390> **Non-Healer Roles:**\n- **Condi @ VG**\n  - Come with a condi DPS specifically for <:valeguardian:703930901997944833> **Vale Guardian**'s `Red Guardian`.\n\n<:contacts:1181934601040576512> **Roles Anyone Can Choose:**\n- **Reflect**\n  - Bring some kind of projectile reflect <:matthias:703930783311593563>.\n- **Towers**\n  - Handle the `Towers` <:escort:841311758147911742>.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 2,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "requiredParticipants": 0,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 2,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 0,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> DPS Alacrity",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    },
+    {
+      "name": "Tank + G3",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Off-Tank + Push + Kite @ Dhuum + Anomalies + G2",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Kite @ Sab",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 1
+    },
+    {
+      "name": "Tank @ SH",
+      "requiredParticipants": 1,
+      "type": "Boon DPS Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Stability",
+      "requiredParticipants": 2,
+      "type": "Boon Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Immob",
+      "requiredParticipants": 1,
+      "type": "Boon Special Role",
+      "listIndex": 1
+    },
+    {
+      "name": "Cannons",
+      "requiredParticipants": 2,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Handkiter",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 1
+    },
+    {
+      "name": "Epidemic",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 2
+    },
+    {
+      "name": "G1",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 3
+    },
+    {
+      "name": "Boonstrip",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 4
+    },
+    {
+      "name": "Lamp",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 5
+    },
+    {
+      "name": "Kite @ Qadim",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 5
+    },
+    {
+      "name": "Pull",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 5
+    },
+    {
+      "name": "Portal",
+      "requiredParticipants": 2,
+      "type": "DPS Special Role",
+      "listIndex": 6
+    },
+    {
+      "name": "Pylon",
+      "requiredParticipants": 3,
+      "type": "DPS Special Role",
+      "listIndex": 7
+    },
+    {
+      "name": "Condi @ VG",
+      "requiredParticipants": 2,
+      "type": "Non-Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Reflect",
+      "requiredParticipants": 1,
+      "type": "Any Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Towers",
+      "requiredParticipants": 1,
+      "type": "Any Special Role",
+      "listIndex": 1
+    }
+  ],
+  "duration": 3.5,
+  "templateName": "FCs",
+  "templateVersion": "Raids",
+  "templateOverview": "A template for a raid full clear. The description mentions doing CMs if time/mood permits.",
+  "templateColour": "#ab3030",
+  "templateImageUrl": "https://wiki.guildwars2.com/images/d/df/GW2Logo_new.png"
+}

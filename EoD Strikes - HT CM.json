@@ -1,0 +1,84 @@
+{
+  "name": "HT CM",
+  "description": "> *We are all. We are nothing. We are the thread that binds every eon. We cannot be undone. What began as void shall return to it.*\n\nWe will be tackling by far one of the most difficult encounters in the game, <:dragonvoid:954126378473767032> **Harvest Temple CM**. This is a long and punishing encounter that requires everyone to come well-prepared.\n\nPower DPS is **required** for this encounter. This is because the boss has significantly lower toughness than other bosses, and the instance is at night, meaning that `Superior Sigil of the Night` can be used for a further 10% DPS.\n\nThe <:alac_healer:1176639815282856017> **Heal Alacrity**, <:quick_dps:1176639849156051014> **DPS Quickness**, and <:mesmer:675414199211393036> **Portal** players will be doing the `Greens` mechanic, which involves standing in the greens that spawn throughout the fight before they pop to avoid a squad-wide downstate.\n\nA wide variety of builds are possible for this encounter, but here are our recommendations:\n\n<:alac_healer:1176639815282856017> **Heal Alacrity Builds:**\n- <:specter:948585463415992335> [**Specter**](https://tinyurl.com/ydbzp44n)\n- <:mechanist:948585084842287184> [**Mechanist**](https://tinyurl.com/4kuha4yr)\n- <:chronomancer:763700489467592734> [**Chronomancer**](https://tinyurl.com/mvzdfsd8)\n\n<:quick_dps:1176639849156051014> **DPS Quickness Builds:**\n- <:herald:818773507286499328> [**Herald**](https://tinyurl.com/4enbu2y4)\n\n<:mesmer:675414199211393036> **Portal Builds**:\n- <:virtuoso:948585484165210162> [**Virtuoso**](https://tinyurl.com/3ywdm4ku) (🎥 [Rotation Video](https://youtu.be/EAlaf3Bkzvc))\n- <:chronomancer:763700489467592734> [**Chronomancer**](https://tinyurl.com/56efxv7u)\n\n<:vindicator:948585284931555428> **Venticator Build**:\n- <:vindicator:948585284931555428> [**Vindicator**](https://tinyurl.com/yhnuxrmx) (🎥 [Rotation Video](https://youtu.be/ayXWAoG5d3g))\n\n<:dps:1176639819191951390> **DPS Builds:**\n- <:reaper:839262566168657961> [**Reaper**](https://tinyurl.com/mwc4cdfd)\n- <:vindicator:948585284931555428> [**Vindicator**](https://tinyurl.com/bddn93yu)\n- <:holosmith:766682587652554814> [**Holosmith**](https://tinyurl.com/4zr4ed8y)\n- <:soulbeast:818775299805413386> [**Soulbeast**](https://tinyurl.com/bddn93yu)\n\n<:quick_healer:1176639812900495400> <:alac_healer:1176639815282856017> **Healer Roles:**\n- Both healers will need to take the **Red Kiter** role. This is a role that requires healers to be closest to the middle of the arena at certain points in the fight to pick up the `Reds` so that they can drop them away from the group.\n\n<:quick_dps:1176639849156051014> <:alac_dps:1176639831720337438> **Quickness Roles:**\n- Both quickness providers need to provide <:stability:844163847161774121> **Stability** for certain mobs and boss attacks throughout the fight.\n\n<:dps:1176639819191951390> **DPS Roles:**\n- One DPS will take the <:vindicator:948585284931555428> **Venticator** role. This requires them to come on a <:vindicator:948585284931555428> **Vindicator** build with the `Legendary Centaur Stance` (Ventari) for the dome.\n- Another DPS should take the <:mesmer:675414199211393036> **Portal + Mass Invis** role. This is a role that requires you to come on a <:mesmer:675414199211393036> **Mesmer** DPS build with `Blink` and `Portal`, mainly for greens. You will also be taking `Mass Invisibility` and casting it between phases to allow mobs to run to the stack.\n- Another DPS should take <:mesmer:675414199211393036> **Portal + Moa**, which is similar to the above role except with `Signet of Humility` as your elite for CC.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 0,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 0,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 2,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "requiredParticipants": 2,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> DPS Alacrity",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    },
+    {
+      "name": "Red Kite",
+      "requiredParticipants": 2,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Stability",
+      "requiredParticipants": 2,
+      "type": "Quickness Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "<:vindicator:948585284931555428> Venticator",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "<:mesmer:675414199211393036> Portal + Mass Invis",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "<:mesmer:675414199211393036> Portal + Moa",
+      "requiredParticipants": 1,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    }
+  ],
+  "duration": 3,
+  "options": {
+    "allowGuests": false,
+    "allowFlex": true,
+    "healAlacDpsQuick": 2,
+    "healQuickDpsAlac": 0,
+    "minForceRole": 0
+  },
+  "templateName": "EoD Strikes",
+  "templateVersion": "HT CM",
+  "templateOverview": "This template for a <:dragonvoid:954126378473767032> **Harvest Temple CM** run stresses the difficulty of the encounter. It has build recommendations for all the roles and comes with standard **Red Kiter**, **Stability**, <:mesmer:675414199211393036> **Portal + Mass Invis**, <:mesmer:675414199211393036> **Portal + Moa**, and <:vindicator:948585284931555428> **Venticator** roles.",
+  "templateColour": "#94eb63",
+  "templateImageUrl": "https://wiki.guildwars2.com/images/thumb/c/ce/The_Only_One_loading_screen.png/800px-The_Only_One_loading_screen.png"
+}

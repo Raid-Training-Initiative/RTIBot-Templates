@@ -1,0 +1,71 @@
+{
+  "name": "Wing 7 CMs",
+  "description": "> *After the events in the Mystic Forge, Qadim has returned home to the Hidden City of Ahdashim to usurp a great power. Seek the Key and the cardinals for guidance into the hallowed city walls and stop Qadim from destroying not only the djinn, but also the natural balance of the world.*\n\nThis is a **Challenge Mode** run of The Key of Ahdashim, i.e. Wing 7. We will have four encounters:\n<:gate:756822812450226186> **Gate** - A trivially easy encounter that serves as a pre-event to the wing.\n<:adina:703930780610461806> **Cardinal Adina CM** - A difficult boss that requires you to be quick on your feet. The CM introduces **permanently destroyed tiles** and **instant death upon falling**.\n<:sabir:703930783160860722> **Cardinal Sabir CM** - A medium difficulty boss that requires a lot of CC. The CM introduces **difficult ressing** and **more mobs**.\n<:qadimthepeerless:703930782749818940> **Qadim the Peerless CM** - A fairly difficult, complicated boss where any kind of DPS works. The CM introduces **deadly lava fields** and a **new sub-40% mechanic**.\n\nBoth power and condi DPS work for these encounters!\n\n<:quick_healer:1176639812900495400> <:alac_healer:1176639815282856017> **Healer Roles:**\n- One healer will need to **Tank** on <:adina:703930780610461806> **Cardinal Adina CM** and <:qadimthepeerless:703930782749818940> **Qadim the Peerless CM**. Tanking is toughness-based for <:adina:703930780610461806> **Cardinal Adina CM**, and <:qadimthepeerless:703930782749818940> **Qadim the Peerless CM** hits like a truck, so I recommend you to take a good amount toughness via gear such as `Minstrel's` or `Giver's`.\n- The other healer will be expected to do the `Anomalies` mechanic on <:qadimthepeerless:703930782749818940> **Qadim the Peerless CM**, which requires a bit of ranged hard/soft CC.\n\n<:quick_generic:1176639827890937986> <:alac_generic:1176639824292220958> **Boon Roles:**\n- Two boon providers will need to take **Stability**, which requires giving your subgroup <:stability:844163847161774121> **Stability** to protect from the knockbacks on <:qadimthepeerless:703930782749818940> **Qadim the Peerless CM**, which is handy on normal mode but sometimes absolutely crucial for CM!\n\n<:dps:1176639819191951390> **DPS Roles:**\n- Three DPS will be expected to do the `Pylon Kiting` mechanic on <:qadimthepeerless:703930782749818940> **Qadim the Peerless CM**. The CM makes this role slightly more punishing.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 2,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "requiredParticipants": 0,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 2,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 0,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> DPS Alacrity",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    },
+    {
+      "name": "Tank",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Anomalies",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Stability",
+      "requiredParticipants": 2,
+      "type": "Boon Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Pylon",
+      "requiredParticipants": 3,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    }
+  ],
+  "duration": 3,
+  "templateName": "Wing 7",
+  "templateVersion": "CMs",
+  "templateOverview": "This template for a Wing 7 CMs run assigns two **Stability** spots that boon providers can pick up for the knockback on <:qadimthepeerless:703930782749818940> **Qadim the Peerless CM**, alongside the standard Wing 7 special roles.",
+  "templateColour": "#704580",
+  "templateImageUrl": "https://wiki.guildwars2.com/images/2/2d/The_Key_of_Ahdashim_loading_screen.jpg"
+}

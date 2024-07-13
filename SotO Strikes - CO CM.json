@@ -1,0 +1,47 @@
+{
+  "name": "CO CM",
+  "description": "> *Before I took my leave, she touched my arm—a delicate gesture for such a warrior. She told me to be light when asking of the past. The wizards all chose to ascend and leave their past lives behind, but that doesn't mean they don't yearn for those threads. To reach out, and remember.*\n\nWe will be tackling the first SotO Strike CM, <:cosmicobservatory:1154873432148820070> **Cosmic Observatory CM**, which is an easy boss with a large health pool and a fair bit of CC needed.\n\nAny type of DPS works here, but classes with good non-bursty sustained DPS tend to perform better, and for that reason, people generally favour condi DPS classes for this encounter.\n\nThe fight has various mechanics that significantly reduce your damage output, such as orb projectiles that give you the `Debilitated` stacking DPS debuff, the boss regularly gaining a hefty `Demonic Aura` damage reduction that needs to be stripped, and the boss temporarily turning people over to the enemy team if they get too many `Residual Anxiety` stacks from standing in AoEs.\n\nHandling these mechanics correctly is the key to getting this encounter down quickly and reliably.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 2,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 2,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 0,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quickness",
+      "requiredParticipants": 0,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> DPS Alacrity",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    }
+  ],
+  "duration": 2,
+  "templateName": "SotO Strikes",
+  "templateVersion": "CO CM",
+  "templateOverview": "A template for <:cosmicobservatory:1154873432148820070> **Cosmic Observatory CM** with a standard dynamic comp.",
+  "templateColour": "#fcfcb3",
+  "templateImageUrl": "https://wiki.guildwars2.com/images/thumb/0/00/Mother_of_Stars.png/1920px-Mother_of_Stars.png"
+}
