@@ -1,0 +1,97 @@
+{
+  "name": "Wing 8 Training",
+  "description": "> *The way to Mount Balrior is open, and the titans are vulnerable. Explore the area to find the titans in their lairs and put an end to their menace.*\n\nThis is the eighth raid wing, added as part of <:expac5_jw:1308425035014471723> **Janthir Wilds**. We will have three encounters:\n<:w8_1greer:1310726316257050747> **Greer, the Blightbringer** - A medium difficulty encounter that demands good positioning and projectile mitigation.\n<:w8_2decima:1310726596159602719> **Decima, the Stormsinger** - A medium difficulty encounter that splits mechanics amongst the entire squad.\n<:w8_3ura:1310726587154694206> **Ura, the Steamshrieker**- A medium difficulty encounter requiring teamwork and coordination.\n\nBoth power and condi DPS are fine for this wing, but power tends to perform better on <:w8_3ura:1310726587154694206> **Ura** due to the frequency of her breakbars and `Superior Sigil of Impact`.\n\n<:role_quick_healer:1176639812900495400> <:role_alac_healer:1176639815282856017> **Healer Roles:**\n- One of the healers is expected to take **Tank** on <:w8_1greer:1310726316257050747> **Greer**. It is a proximity-based tanking mechanic where the boss should be turned away from the group as much as possible. **Ranged** boons are required due to the massive size of the boss.\n- One of the healers has to play **Kiter** on  <:w8_2decima:1310726596159602719> **Decima** for the `Red Arrow` mechanic, best done by a healer with a **blink** such as <:spec_mes2_chrono:983057729872597012> **Chrono**, <:spec_n1_scourge:763701209122471958> **Scourge**, or <:spec_eng3_mechanist:948585084842287184> **Heal Mechanist**, but any mobile healer is doable. Bringing <:boon_stability:844163847161774121> **Stability** is also required.\n\n<:role_quick_healer:1176639812900495400> <:role_quick_dps:1176639849156051014> **Quickness Roles:**\n- One quickness provider is expected to play <:spec_rev1_herald:818773507286499328> **Herald** for <:w8_1greer:1310726316257050747> **Greer** and bring `Ventari` to upkeep their bubble to destroy boss-buffing projectiles throughout the fight. The other quickness provider is also encouraged to do this for extra safety.\n\n<:role_quick_dps:1176639849156051014> <:role_alac_dps:1176639831720337438> **Boon DPS Roles:**\n- One of the boon DPS has to take a build with **Ranged** damage specifically for  <:w8_2decima:1310726596159602719> **Decima**. Bringing <:boon_stability:844163847161774121> **Stability** is a nice bonus!\n\n<:role_dps:1176639819191951390> **DPS Roles:**\n- Three of the pure DPS players have to also take builds with **Ranged** damage for <:w8_2decima:1310726596159602719> **Decima**.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:role_quick_generic:1176639827890937986> Quickness",
+      "requiredParticipants": 1,
+      "type": "Generic Quickness"
+    },
+    {
+      "name": "<:role_alac_generic:1176639824292220958> Alacrity",
+      "requiredParticipants": 1,
+      "type": "Generic Alacrity"
+    },
+    {
+      "name": "<:role_quick_healer:1176639812900495400> Heal Quickness",
+      "requiredParticipants": 0,
+      "type": "Heal Quickness"
+    },
+    {
+      "name": "<:role_alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 1,
+      "type": "Heal Alacrity"
+    },
+    {
+      "name": "<:role_quick_dps:1176639849156051014> Quick DPS",
+      "requiredParticipants": 1,
+      "type": "DPS Quickness"
+    },
+    {
+      "name": "<:role_alac_dps:1176639831720337438> Alac DPS",
+      "requiredParticipants": 0,
+      "type": "DPS Alacrity"
+    },
+    {
+      "name": "<:role_dps:1176639819191951390> DPS",
+      "requiredParticipants": 6,
+      "type": "DPS"
+    },
+    {
+      "name": "Tank",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Kiter",
+      "requiredParticipants": 1,
+      "type": "Healer Special Role",
+      "listIndex": 1
+    },
+    {
+      "name": "Ventari",
+      "requiredParticipants": 1,
+      "type": "Quickness Special Role",
+      "listIndex": 0
+    },
+    {
+      "name": "Ranged Boon DPS",
+      "requiredParticipants": 1,
+      "type": "Quickness Special Role",
+      "listIndex": 1
+    },
+    {
+      "name": "Ranged DPS",
+      "requiredParticipants": 3,
+      "type": "DPS Special Role",
+      "listIndex": 0
+    }
+  ],
+  "duration": 3,
+  "options": {
+    "allowGuests": false,
+    "allowFlex": false,
+    "healAlacDpsQuick": 1,
+    "healQuickDpsAlac": 0,
+    "minForceRole": 0,
+    "restrictedRoles": []
+  },
+  "specialRoleAssignments": [
+    {
+      "coreRole": "<:role_alac_healer:1176639815282856017> Heal Alacrity",
+      "specialRoles": [],
+      "assignedSpecialRole": "Kiter"
+    },
+    {
+      "coreRole": "<:role_quick_dps:1176639849156051014> Quick DPS",
+      "specialRoles": [],
+      "assignedSpecialRole": "Ranged Boon DPS‎"
+    }
+  ],
+  "templateName": "Wing 8",
+  "templateVersion": "Standard",
+  "templateOverview": "This template for a Wing 8 has designated **Tank** and **Ventari** roles for <:w8_1greer:1310726316257050747> **Greer** and a dedicated healer **Kiter** and **Ranged** subgroup for <:w8_2decima:1310726596159602719> **Decima**. The descriptio  mentions the importance of <:boon_stability:844163847161774121> **Stability**.",
+  "templateColour": "#613915",
+  "templateImageUrl": "https://wiki.guildwars2.com/images/8/83/Mount_Balrior_loading_screen.png"
+}
